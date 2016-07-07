@@ -1,6 +1,6 @@
 # CIB-bathtub
-model and observational data for cosmic far-infrared background and FIR/submm galaxies
+the gas regulator model for cosmic far-infrared background and FIR/submm galaxies, compared with various observational data sets
 
-data/ all observational data sets in the paper
+data.zip includes all observational data sets in the paper
 
-model/ results for all models plotted in the paper
+model.zip results for all models plotted in the paper
